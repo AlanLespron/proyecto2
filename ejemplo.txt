@@ -1,0 +1,29 @@
+int 
+
+
+
+
+    while(check == 1) {
+      cout<<"Cuantas funciones quieres agregar? (Maximo 20)"<<endl;
+        cin>>nF;
+        if (nF < 21 && nF > 0) {
+            for (int x = 0; x < nF; x++) {
+                cout << "Ingrese la clave de la Funcion: " << endl;
+                cin >> cF;
+                cout << "Ingrese el número de película: " << endl;
+                cin >> nP;
+                cout << "Ingrese la hora de la funcion (Hora luego Minutos): " << endl;
+                cin >> hH;
+                cin >> mM;
+                cout << "Ingrese el número de sala: " << endl;
+                cin >> iS;
+                Hora hora(hH, mM);
+                Funciones[x] = Funcion(cF, nP, hora, iS);
+                check = 0;
+            }
+        }
+        else {
+            cout << "Ese número de funciones no es valido." << endl;
+            check = 1;
+        }
+    }

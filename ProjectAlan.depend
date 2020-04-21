@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1587434194 source:c:\users\ruben\desktop\projectalan\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Actor.h"
+	"Pelicula.h"
+	"Funcion.h"
+
+1587433010 c:\users\ruben\desktop\projectalan\actor.h
+
+1587434295 c:\users\ruben\desktop\projectalan\pelicula.h
+	<iostream>
+	<iomanip>
+
+1587433010 c:\users\ruben\desktop\projectalan\funcion.h
+	"Hora.h"
+
+1587433010 c:\users\ruben\desktop\projectalan\hora.h
+
+1587451705 source:c:\users\alan\desktop\projectalan\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Actor.h"
+	"Pelicula.h"
+	"Funcion.h"
+
+1587444999 c:\users\alan\desktop\projectalan\actor.h
+
+1587451590 c:\users\alan\desktop\projectalan\pelicula.h
+	<iostream>
+	<iomanip>
+
+1587450654 c:\users\alan\desktop\projectalan\funcion.h
+	"Hora.h"
+
+1587433012 c:\users\alan\desktop\projectalan\hora.h
+
