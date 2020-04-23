@@ -37,3 +37,22 @@
 
 1587433012 c:\users\alan\desktop\projectalan\hora.h
 
+1587632764 source:c:\users\alan\documents\proyecto2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Actor.h"
+	"Pelicula.h"
+	"Funcion.h"
+
+1587444999 c:\users\alan\documents\proyecto2\actor.h
+
+1587451590 c:\users\alan\documents\proyecto2\pelicula.h
+	<iostream>
+	<iomanip>
+
+1587450654 c:\users\alan\documents\proyecto2\funcion.h
+	"Hora.h"
+
+1587433012 c:\users\alan\documents\proyecto2\hora.h
+
